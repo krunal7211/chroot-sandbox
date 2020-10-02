@@ -1,5 +1,6 @@
 #include <cstdio>
 #include <cstdlib>
+#include <ctype.h>
 #include <unistd.h>
 
 int main() {
